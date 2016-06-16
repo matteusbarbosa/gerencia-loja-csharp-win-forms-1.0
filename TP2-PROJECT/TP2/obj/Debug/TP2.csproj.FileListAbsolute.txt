@@ -56,3 +56,20 @@ J:\Sistemas de Informação\2016 - 1º Semestre\Programação Orientada a Objeto
 J:\Sistemas de Informação\2016 - 1º Semestre\Programação Orientada a Objetos\02. TP 2\TP2-PROJECT\TP2\obj\Debug\TP2.ShopReportSelect.resources
 J:\Sistemas de Informação\2016 - 1º Semestre\Programação Orientada a Objetos\02. TP 2\TP2-PROJECT\TP2\obj\Debug\TP2.csproj.GenerateResource.Cache
 J:\Sistemas de Informação\2016 - 1º Semestre\Programação Orientada a Objetos\02. TP 2\TP2-PROJECT\TP2\obj\Debug\TP2.FrmSobre.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\bin\Debug\TP2.exe.config
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.exe
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.pdb
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\bin\Debug\TP2.exe
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\bin\Debug\TP2.pdb
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.ListProducts.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.OrderFinish.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.Panel.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.ReportSelling.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.ReportStockGlobal.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.ReportStockLocal.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.SearchProduct.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.ShopReportSelect.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.FrmSobre.resources
+C:\Users\cpd\Downloads\Gerencia_Loja_1\TP2-PROJECT\TP2\obj\Debug\TP2.csproj.GenerateResource.Cache

@@ -24,7 +24,12 @@ namespace TP2
         }
 
         private void FrmSobre_Load(object sender, EventArgs e) {
-            label5.Text = "Trabalho Prático apresentado ao Curso de Sistmas de Informação da\nPontifícia Universidade Católica de Minas Gerais, como requisito parcial\npara obtenção do título de Bacharel em Sistemas de Informação.";
+            label5.Text = "Trabalho Prático apresentado ao Curso de Sistemas de Informação da\nPontifícia Universidade Católica de Minas Gerais, como requisito parcial\npara obtenção do título de Bacharel em Sistemas de Informação.";
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
