@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP2.Client" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.DataSource" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAIAACAAAgBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.DeliveryMethod">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliveryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.DeliveryPhisicalWithdraw">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliveryPhisicalWithdraw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.DeliverySedex">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliverySedex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ExceptionFileInvalid" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionFileInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ExceptionOrderInvalid" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionOrderInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ExceptionProductInvalid" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionProductInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ExceptionShopInvalid" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionShopInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ListProducts" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAhAAABCAAAACAQAAAAAwBEAAAAAAAAQ=</HashCode>
+      <FileName>ListProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Order" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAAwAAAAAECAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.OrderFinish" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAEAAAAAACAAAhACAkCAAAACIAAAAAAABAAAAgAAAAA=</HashCode>
+      <FileName>OrderFinish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Panel" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACgAQpAAAACIAAADAAA4AAgBAGgAAQACAAA=</HashCode>
+      <FileName>Panel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Product" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAQAAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Program" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Report" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIAAAAAIAAAAABAAAAAAAAAAAAACBAAAAAAAA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ReportSelling" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportSelling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ReportStockGlobal" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAQAAABAAAAAAAAAQ=</HashCode>
+      <FileName>ReportStockGlobal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ReportStockLocal" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAABACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportStockLocal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.SearchProduct" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAACAAAAgAAACAACACAAAAAAQAAAAAIAAAAAA=</HashCode>
+      <FileName>SearchProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Shop" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAABBQQAAAAAACACAAACAAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ShopPhisical" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShopPhisical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.ShopVirtual" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShopVirtual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Stock" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAAIAAAAAAAAACAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.User" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP2.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
